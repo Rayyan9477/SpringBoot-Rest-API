@@ -1,11 +1,8 @@
 package Rayyan.SpringBootRest.controller;
-
 import Rayyan.SpringBootRest.service.CaseFileService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
-
 import Rayyan.SpringBootRest.entity.CaseFile;
-
 import java.util.List;
 
 @RestController
