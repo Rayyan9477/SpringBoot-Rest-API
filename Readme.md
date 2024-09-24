@@ -11,8 +11,8 @@ This project is a RESTful web service built using Spring Boot. It is designed to
 - **Other Technologies**: RESTful API, JSON
 
 ## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](https://github.com/Rayyan9477/Software_Design_Lab/blob/main/Screenshot%202024-06-01%20153604.png)
+![Screenshot 2](https://github.com/Rayyan9477/Software_Design_Lab/blob/main/Screenshot%202024-06-01%20153704.png)
 
 ## Contact Information
 - **LinkedIn**: [https://www.linkedin.com/in/rayyan-ahmed9477/]
